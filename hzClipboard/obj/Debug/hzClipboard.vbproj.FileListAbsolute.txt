@@ -1,0 +1,15 @@
+D:\Developpement\hzClipboard\hzClipboard\bin\Debug\hzClipboard.exe.config
+D:\Developpement\hzClipboard\hzClipboard\bin\Debug\hzClipboard.exe
+D:\Developpement\hzClipboard\hzClipboard\bin\Debug\hzClipboard.pdb
+D:\Developpement\hzClipboard\hzClipboard\bin\Debug\hzClipboard.xml
+D:\Developpement\hzClipboard\hzClipboard\bin\Debug\Accord.Controls.Imaging.dll
+D:\Developpement\hzClipboard\hzClipboard\bin\Debug\Accord.Controls.Imaging.xml
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.Form1.resources
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.Resources.resources
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.vbproj.GenerateResource.Cache
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.exe.licenses
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.exe
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.xml
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.pdb
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.lstitem.resources
+D:\Developpement\hzClipboard\hzClipboard\obj\Debug\hzClipboard.Listitems.resources
